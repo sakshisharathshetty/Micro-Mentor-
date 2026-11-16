@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Colours from DESIGN-SYSTEM.md are written directly in the
+   Tailwind classes, e.g. bg-[#2563EB] for the primary blue. */
